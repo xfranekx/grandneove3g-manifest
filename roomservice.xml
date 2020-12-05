@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Grand Neo Plus -->
+  <project name="Samsung-GNP/android_device_samsung_grandneove3g" path="device/samsung/grandneove3g" remote="github" revision="lineage-15.1" />
+  <project name="Samsung-GNP/android_kernel_samsung_grandneove3g" path="kernel/samsung/grandneove3g" remote="github" revision="lineage-15.1" />
+  <project name="Samsung-GNP/android_vendor_samsung_grandneove3g" path="vendor/samsung/grandneove3g" remote="github" revision="lineage-15.1" />
+
+  <!-- SPRD Hardware -->
+  <project name="diepquynh/android_hardware_sprd" path="hardware/sprd" remote="github" revision="lineage-15.1" />
+</manifest>
